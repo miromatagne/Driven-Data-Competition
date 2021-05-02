@@ -377,14 +377,14 @@ funder_Esawa
 funder_Ester_Ndege
 funder_Eu
 funder_Eu/acra
-funder_Eung_Am_Methodist_Church
 funder_Eung-am_Methodist_Church
+funder_Eung_Am_Methodist_Church
 funder_European_Union
 funder_F
 funder_Fabia
 funder_Fao
-funder_Farm_Africa
 funder_Farm-africa
+funder_Farm_Africa
 funder_Fathe
 funder_Father_Bonifasi
 funder_Father_W
@@ -720,6 +720,7 @@ funder_Kiwanda_Cha_Tangawizi
 funder_Kizego_Jumaa
 funder_Kizenga
 funder_Kkkt
+funder_Kkkt-dioces_Ya_Pare
 funder_Kkkt_Canal
 funder_Kkkt_Church
 funder_Kkkt_Dme
@@ -727,7 +728,6 @@ funder_Kkkt_Leguruki
 funder_Kkkt_Mareu
 funder_Kkkt_Ndrumangeni
 funder_Kkkt_Usa
-funder_Kkkt-dioces_Ya_Pare
 funder_Kkkt_makwale
 funder_Kmt
 funder_Koica
@@ -759,8 +759,8 @@ funder_Kwasenenge_Group
 funder_Kwik
 funder_Kwikwiz
 funder_Kyariga
-funder_Kyela_Council
 funder_Kyela-morogoro
+funder_Kyela_Council
 funder_L
 funder_Laizer
 funder_Lake_Tanganyika
@@ -842,8 +842,8 @@ funder_Madaraweshi
 funder_Madra
 funder_Maerere
 funder_Mafwimbo
-funder_Magadini_Makiwaru_Water
 funder_Magadini-makiwaru_Water
+funder_Magadini_Makiwaru_Water
 funder_Magani
 funder_Magereza
 funder_Magige
@@ -1353,10 +1353,10 @@ funder_Roman_Ca
 funder_Roman_Catholic
 funder_Roman_Catholic_Rulenge_Diocese
 funder_Roman_Cathoric
+funder_Roman_Cathoric-same
 funder_Roman_Cathoric_-kilomeni
 funder_Roman_Cathoric_Church
 funder_Roman_Cathoric_Same
-funder_Roman_Cathoric-same
 funder_Roman_Church
 funder_Rombo_Dalta
 funder_Rotary
@@ -1509,8 +1509,8 @@ funder_Sister_Makulata
 funder_Siter_Fransis
 funder_Siza_Mayengo
 funder_Snv
-funder_Snv_Ltd
 funder_Snv-swash
+funder_Snv_Ltd
 funder_Sobodo
 funder_Socie
 funder_Soda
@@ -2033,10 +2033,10 @@ scheme_management_Private_operator
 scheme_management_SWC
 scheme_management_Trust
 scheme_management_VWC
+scheme_management_Water_authority
+scheme_management_Water_Board
 scheme_management_WUA
 scheme_management_WUG
-scheme_management_Water_Board
-scheme_management_Water_authority
 permit_
 permit_False
 permit_True
