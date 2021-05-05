@@ -4,6 +4,7 @@ basin_Lake_Victoria
 basin_Pangani
 basin_Rufiji
 basin_Ruvuma_/_Southern_Coast
+basin_Wami_/_Ruvu
 date_recorded
 district_code
 extraction_type_class_gravity
@@ -55,7 +56,6 @@ lga_Shinyanga_Rural
 lga_Tanga
 lga_Temeke
 lga_Ukerewe
-management_group_other
 management_group_unknown
 management_other_-_school
 management_unknown
@@ -78,11 +78,11 @@ region_Kigoma
 region_Kilimanjaro
 region_Lindi
 region_Mbeya
-region_Morogoro
 region_Mtwara
 region_Mwanza
 region_Ruvuma
 region_Shinyanga
+region_Tabora
 region_code
 region_kmeans
 source_class
