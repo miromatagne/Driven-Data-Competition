@@ -22,7 +22,6 @@ extraction_type_group_swn_80
 gps_height
 id
 installer
-lga_Bagamoyo
 lga_Bukoba_Rural
 lga_Bunda
 lga_Chunya
@@ -43,7 +42,6 @@ lga_Mbeya_Rural
 lga_Meru
 lga_Mkuranga
 lga_Moshi_Rural
-lga_Mvomero
 lga_Mwanga
 lga_Nachingwea
 lga_Nanyumbu
@@ -80,11 +78,13 @@ region_Kigoma
 region_Kilimanjaro
 region_Lindi
 region_Mbeya
+region_Morogoro
 region_Mtwara
 region_Mwanza
 region_Ruvuma
 region_Shinyanga
 region_code
+region_kmeans
 source_class
 source_machine_dbh
 source_river
