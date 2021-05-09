@@ -1,3 +1,4 @@
+amount_tsh
 basin_Internal
 basin_Lake_Nyasa
 basin_Lake_Tanganyika
@@ -28,18 +29,17 @@ lga_Iramba
 lga_Iringa_Rural
 lga_Karagwe
 lga_Kibondo
-lga_Kiteto
 lga_Korogwe
 lga_Kwimba
-lga_Longido
 lga_Magu
+lga_Makete
 lga_Masasi
-lga_Maswa
 lga_Mbinga
 lga_Meatu
 lga_Ngara
 lga_Ngorongoro
 lga_Nzega
+lga_Pangani
 lga_Rufiji
 lga_Rungwe
 lga_Shinyanga_Urban
@@ -65,8 +65,8 @@ quantity_enough
 quantity_insufficient
 quantity_seasonal
 quantity_unknown
+region_code
 region_Dodoma
-region_Iringa
 region_Kagera
 region_Kigoma
 region_Kilimanjaro
@@ -81,7 +81,6 @@ region_Ruvuma
 region_Singida
 region_Tabora
 region_Tanga
-region_code
 source_class
 source_hand_dtw
 source_lake
