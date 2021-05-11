@@ -8,7 +8,10 @@ basin_Pangani
 basin_Rufiji
 basin_Ruvuma_/_Southern_Coast
 basin_Wami_/_Ruvu
-construction_year
+construction_year_1970s
+construction_year_1980s
+construction_year_2000s
+construction_year_2010s
 district_code
 extraction_type_class_gravity
 extraction_type_class_handpump
@@ -23,11 +26,9 @@ extraction_type_group_other
 extraction_type_group_submersible
 gps_height
 installer
-lga_Arusha_Rural
 lga_Babati
 lga_Bagamoyo
 lga_Bariadi
-lga_Bunda
 lga_Chunya
 lga_Dodoma_Urban
 lga_Hai
@@ -77,7 +78,6 @@ region_Mara
 region_Mbeya
 region_Mtwara
 region_Rukwa
-region_Ruvuma
 region_Shinyanga
 region_Tabora
 region_code
