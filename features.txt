@@ -8,15 +8,26 @@ basin_Pangani
 basin_Rufiji
 basin_Ruvuma_/_Southern_Coast
 basin_Wami_/_Ruvu
+<<<<<<< HEAD
 construction_year_1970s
 construction_year_1980s
 construction_year_2000s
 construction_year_2010s
+=======
+construction_year_1960s
+construction_year_1970s
+construction_year_1980s
+construction_year_1990s
+construction_year_2000s
+construction_year_2010s
+date_recorded
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 district_code
 extraction_type_class_gravity
 extraction_type_class_handpump
 extraction_type_class_motorpump
 extraction_type_class_other
+<<<<<<< HEAD
 extraction_type_class_submersible
 extraction_type_group_afridev
 extraction_type_group_gravity
@@ -27,6 +38,28 @@ extraction_type_group_submersible
 funder
 gps_height
 installer
+=======
+extraction_type_class_rope_pump
+extraction_type_class_submersible
+extraction_type_class_wind-powered
+extraction_type_group_afridev
+extraction_type_group_gravity
+extraction_type_group_india_mark_ii
+extraction_type_group_india_mark_iii
+extraction_type_group_mono
+extraction_type_group_nira/tanira
+extraction_type_group_other
+extraction_type_group_other_handpump
+extraction_type_group_other_motorpump
+extraction_type_group_rope_pump
+extraction_type_group_submersible
+extraction_type_group_swn_80
+extraction_type_group_wind-powered
+funder
+gps_height
+installer
+lga_Arusha_Rural
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 lga_Babati
 lga_Bagamoyo
 lga_Bariadi
@@ -50,12 +83,31 @@ lga_Pangani
 lga_Rombo
 lga_Siha
 lga_Ukerewe
+<<<<<<< HEAD
 management_company
+=======
+lga_Ulanga
+lga_Urambo
+lga_Uyui
+management_company
+management_group_commercial
+management_group_other
+management_group_parastatal
+management_group_unknown
+management_group_user-group
+management_other
+management_other_-_school
+management_parastatal
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 management_private_operator
 management_vwc
 management_water_board
 management_wua
 management_wug
+<<<<<<< HEAD
+=======
+num_private
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 payment_type_annually
 payment_type_monthly
 payment_type_never_pay
@@ -63,6 +115,10 @@ payment_type_on_failure
 payment_type_per_bucket
 payment_type_unknown
 permit
+<<<<<<< HEAD
+=======
+population
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 public_meeting
 quantity_dry
 quantity_enough
@@ -70,6 +126,7 @@ quantity_insufficient
 quantity_seasonal
 quantity_unknown
 region_Arusha
+<<<<<<< HEAD
 region_Dodoma
 region_Iringa
 region_Kigoma
@@ -82,6 +139,30 @@ region_Shinyanga
 region_Tabora
 region_code
 region_kmeans
+=======
+region_code
+region_Dar_es_Salaam
+region_Dodoma
+region_Iringa
+region_Kagera
+region_Kigoma
+region_Kilimanjaro
+region_kmeans
+region_Lindi
+region_Manyara
+region_Mara
+region_Mbeya
+region_Morogoro
+region_Mtwara
+region_Mwanza
+region_Pwani
+region_Rukwa
+region_Ruvuma
+region_Shinyanga
+region_Singida
+region_Tabora
+region_Tanga
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 source_class
 source_dam
 source_lake
@@ -90,9 +171,21 @@ source_rainwater_harvesting
 source_river
 source_shallow_well
 source_spring
+<<<<<<< HEAD
 water_quality_salty
 water_quality_soft
 water_quality_unknown
+=======
+water_quality_coloured
+water_quality_fluoride
+water_quality_fluoride_abandoned
+water_quality_milky
+water_quality_salty
+water_quality_salty_abandoned
+water_quality_soft
+water_quality_unknown
+waterpoint_type_cattle_trough
+>>>>>>> 0b469efbbbeeb12c7b14501b657069b91a5e87ca
 waterpoint_type_communal_standpipe
 waterpoint_type_communal_standpipe_multiple
 waterpoint_type_hand_pump
