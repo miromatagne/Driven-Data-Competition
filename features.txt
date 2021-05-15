@@ -195,14 +195,12 @@ quantity_insufficient
 quantity_seasonal
 quantity_unknown
 region_Arusha
-region_code
 region_Dar_es_Salaam
 region_Dodoma
 region_Iringa
 region_Kagera
 region_Kigoma
 region_Kilimanjaro
-region_kmeans
 region_Lindi
 region_Manyara
 region_Mara
@@ -217,6 +215,8 @@ region_Shinyanga
 region_Singida
 region_Tabora
 region_Tanga
+region_code
+region_kmeans
 source_class
 source_dam
 source_hand_dtw
