@@ -6,3 +6,5 @@ The other files in the repository are used inside the notebook, they should not 
 To run the project, simply run the R notebook, all dependecies will be installed.
 
 The project report is contained in the Report.pdf document.
+
+The screenshot of our DrivenData submission is in the submission.png file.
